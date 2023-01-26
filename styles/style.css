@@ -185,7 +185,7 @@ div.card__aitype > h2 {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: .6875rem;
   text-align: center;
 }
 
@@ -193,7 +193,7 @@ div.card__aitype > h2 {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 60em) {
   .card {
     transition: all 0.5s;
   }
